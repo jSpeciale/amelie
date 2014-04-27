@@ -19,6 +19,7 @@ gem 'coffee-rails', '4.0.1' # Use CoffeeScript for .js.coffee assets and views
 gem 'jquery-rails', '3.1.0' # Use jquery as the JavaScript library
 gem 'turbolinks' # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'jbuilder', '~> 1.2' # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
+gem 'bootstrap-sass', '3.1.1.1'
 
 group :doc do
   gem 'sdoc', require: false # bundle exec rake doc:rails generates the API under doc/api.
